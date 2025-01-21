@@ -1,6 +1,6 @@
 # Teste Econverse React
 
-Este é um projeto front-end desenvolvido em React com TypeScript, criado com Vite, como parte de um teste para a Econverse. O projeto é uma aplicação de e-commerce que consome uma API para exibir produtos. Estilizações são feitas com Sass, e a biblioteca Axios é usada para realizar requisições HTTP.
+Este é um projeto front-end desenvolvido em React com TypeScript, criado com Vite, como parte de um teste para a Econverse. O projeto é uma aplicação de e-commerce que consome uma API para exibir produtos. Estilizações são feitas com Sass, e a biblioteca Axios é usada para realizar requisições HTTP. Projeto desenvolvido para adquirir experiência nessas tecnologias.
 
 ## Requisitos para executar o projeto
 
@@ -56,7 +56,7 @@ npm run lint
 ## Testes
 
 Atualmente, este projeto não inclui testes automatizados. 
-## Contribuição
+
 
 
 
